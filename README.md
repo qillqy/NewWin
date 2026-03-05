@@ -25,8 +25,7 @@ Font: JetBrainsMono Nerd Font
 
 ## Photos
 
-![Desktop](./assets/desktop.png)
-![Workspace](./assets/workspace.png)
+![Desktop](./Assets/unknown_2026.03.04-21.57.png)
 ![Terminal](./assets/terminal.png)
 
 ---
